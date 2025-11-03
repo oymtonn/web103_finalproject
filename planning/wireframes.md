@@ -15,14 +15,14 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Wireframe 1: Dashboard
 
-<img src='planning\wireframes\Dashboard.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='wireframes\Dashboard.png' title='Dashboard Wireframe' width='' alt='Video Walkthrough' />
 
 ## Wireframe 2: Task Page
 
-<img src='planning\wireframes\Task_Page.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='wireframes\Task_Page.png' title='Task Page Wireframe' width='' alt='Video Walkthrough' />
 
 ## Wireframe 3: Habit Page
 
-<img src='planning\wireframes\Habit_Page.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='wireframes\Habit_Page.png' title='Habit Page Wireframe' width='' alt='Video Walkthrough' />
 
 [👉🏾👉🏾👉🏾 include more wireframes as desired]
