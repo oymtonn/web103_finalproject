@@ -6,16 +6,23 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 [👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
 
-## Wireframe 1: [page title]
+- Dashboard page ⭐
+- Habit page ⭐
+- Task page ⭐
+- Signup page
+- Login page
+- Profile page
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+## Wireframe 1: Dashboard
 
-## Wireframe 2: [page title]
+<img src='planning\wireframes\Dashboard.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+## Wireframe 2: Task Page
 
-## Wireframe 3: [page title]
+<img src='planning\wireframes\Task_Page.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+## Wireframe 3: Habit Page
+
+<img src='planning\wireframes\Habit_Page.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 [👉🏾👉🏾👉🏾 include more wireframes as desired]
