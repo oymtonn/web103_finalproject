@@ -25,8 +25,5 @@ Being given the chance to thoroughly brainstorm and plan out the project is real
 
 ### 2. What were some challenges your group faced in this unit?
 
-I was unable to get in contact with my groupmate as they did not respond in Slack. They also were not present in last week's meeting but support still told me to work with them. Now I'm unsure of how to continue.
-
 ### 3. What additional support will you need in upcoming units as you continue to work on your final project?
 
-Some clarity on what my group will be if my groupmate still does not show up for this week.
