@@ -18,12 +18,12 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We were able to complete all of the planning for the entire project, and complete the wireframes and entity diagram.
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+The entity diagram was a little challenging due to the many different tables required for our project and having to choose what kind of relationship a table should have with another was confusing.
 
 ### 3. What additional support will you need in upcoming units as you continue to work on your final project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We have all the support we need for now, though that may change next week.
